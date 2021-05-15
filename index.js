@@ -1,1 +1,3 @@
-Function 
+function Scooter = () => {
+  
+}
