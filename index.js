@@ -4,8 +4,8 @@ function Scooter(year, color, model) {
   this.model = model
 }
 
-function Driver(year, color, model) {
-  this.year = year;
+function Driver(name, color, model) {
+  this.name = name;
   this.color = color;
   this.model = model
 }
