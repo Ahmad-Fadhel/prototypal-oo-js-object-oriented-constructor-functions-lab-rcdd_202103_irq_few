@@ -11,9 +11,8 @@ function Driver(name, age, experience) {
 }
 
 function PickupLocation(address, color, model) {
-  this.address = year;
+  this.address = address;
   this.color = color;
-  this.model = model
 }
 
 
